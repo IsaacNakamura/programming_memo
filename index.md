@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## 技術・プログラミングメモ　
+
+このページはPython,SQL,R,SASなどのプログラミングの技術メモです。
+
 
 You can use the [editor on GitHub](https://github.com/IsaacNakamura/programming_memo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
