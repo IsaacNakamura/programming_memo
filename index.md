@@ -2,6 +2,10 @@
 
 このページはPython,SQL,R,SASなどのプログラミングの技術メモです。
 
+# 参照URL
+Getting Started with GitHub Pages
+https://guides.github.com/features/pages/
+
 
 You can use the [editor on GitHub](https://github.com/IsaacNakamura/programming_memo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
