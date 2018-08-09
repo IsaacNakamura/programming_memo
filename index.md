@@ -12,6 +12,10 @@ https://qiita.com/ririli/items/0e06b21cb709beae4514
 Githubに新規リポジトリ(Repository)を作成する
 https://qiita.com/bakainubau/items/4613dda50a5fa302d212
 
+GitHubにあるリポジトリをローカルにcloneする方法
+https://qiita.com/masamitsu-konya/items/abb572337156e4d003cf　　
+今回はこの記事を参照してリポジトリーを作成後、ローカルにクローンする。
+
 
 You can use the [editor on GitHub](https://github.com/IsaacNakamura/programming_memo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
