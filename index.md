@@ -14,8 +14,23 @@ https://qiita.com/bakainubau/items/4613dda50a5fa302d212
 
 GitHubにあるリポジトリをローカルにcloneする方法
 https://qiita.com/masamitsu-konya/items/abb572337156e4d003cf　　
+
 今回はこの記事を参照してリポジトリーを作成後、ローカルにクローンする。
 
+問題発生
+
+```markdown
+Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+```
+
+以下のStack overflow ページを参照
+
+Permission denied (publickey) fatal: Could not read from remote repository. while cloning Git repository
+https://stackoverflow.com/questions/21255438/permission-denied-publickey-fatal-could-not-read-from-remote-repository-whil
 
 You can use the [editor on GitHub](https://github.com/IsaacNakamura/programming_memo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
