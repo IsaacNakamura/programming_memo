@@ -6,6 +6,9 @@
 Getting Started with GitHub Pages
 https://guides.github.com/features/pages/
 
+GitHub Pagesで静的サイトを簡単に作る
+https://qiita.com/ririli/items/0e06b21cb709beae4514
+
 
 You can use the [editor on GitHub](https://github.com/IsaacNakamura/programming_memo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
