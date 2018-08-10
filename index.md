@@ -42,6 +42,16 @@ git clone https://github.com/%REPOSITORYFOLDER%/%REPOSITORYNAME%.git
 ```
 こちらが正解。
 
+次に、レポジトリにpushしようとすると、以下のエラーメッセージ
+```markdown
+Updates were rejected because the tip of your current branch is behind
+```
+以下のページを参照して解決。
+https://stackoverflow.com/questions/39399804/updates-were-rejected-because-the-tip-of-your-current-branch-is-behind/39414252
+```markdown
+git pull origin FixForBug
+git push origin FixForBug
+```
 
 You can use the [editor on GitHub](https://github.com/IsaacNakamura/programming_memo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
