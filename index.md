@@ -17,7 +17,7 @@ https://qiita.com/masamitsu-konya/items/abb572337156e4d003cf　　
 
 今回はこの記事を参照してリポジトリーを作成後、ローカルにクローンする。
 
-問題発生
+## 問題発生
 
 ```markdown
 Permission denied (publickey).
@@ -49,8 +49,8 @@ Updates were rejected because the tip of your current branch is behind
 以下のページを参照して解決。
 https://stackoverflow.com/questions/39399804/updates-were-rejected-because-the-tip-of-your-current-branch-is-behind/39414252
 ```markdown
-git pull origin FixForBug
-git push origin FixForBug
+git pull origin master
+git push origin master
 ```
 
 You can use the [editor on GitHub](https://github.com/IsaacNakamura/programming_memo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
