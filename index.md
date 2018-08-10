@@ -37,6 +37,10 @@ http://www.templatewire.com/verum-free-resume-cv-template
 WordPressの投稿記事内でJavascript プログラムを実行する方法
 https://www.webantena.net/wordpress/run-the-javascript-in-the-article/
 
+【CSS】おしゃれなボックスデザイン（囲み枠）のサンプル30
+https://saruwakakun.com/html-css/reference/box
+
+
 ## トラブルシューティング
 
 ```markdown
