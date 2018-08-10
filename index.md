@@ -32,6 +32,17 @@ and the repository exists.
 Permission denied (publickey) fatal: Could not read from remote repository. while cloning Git repository
 https://stackoverflow.com/questions/21255438/permission-denied-publickey-fatal-could-not-read-from-remote-repository-whil
 
+上記サイトにより解決
+```markdown
+git clone https://github.com/%REPOSITORYFOLDER%/%REPOSITORYNAME%.git
+```
+上記は間違い。
+```markdown
+git clone git@github.com:%REPOSITORYFOLDER%/%REPOSITORYNAME%.git
+```
+こちらが正解。
+
+
 You can use the [editor on GitHub](https://github.com/IsaacNakamura/programming_memo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
