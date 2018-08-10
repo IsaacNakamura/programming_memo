@@ -46,8 +46,8 @@ git clone https://github.com/%REPOSITORYFOLDER%/%REPOSITORYNAME%.git
 ```markdown
 Updates were rejected because the tip of your current branch is behind
 ```
-以下のページを参照して解決。
-https://stackoverflow.com/questions/39399804/updates-were-rejected-because-the-tip-of-your-current-branch-is-behind/39414252
+[こちらのページ](https://stackoverflow.com/questions/39399804/updates-were-rejected-because-the-tip-of-your-current-branch-is-behind/39414252)を参照して解決。
+
 ```markdown
 git pull origin master
 git push origin master
