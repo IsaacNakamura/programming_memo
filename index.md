@@ -2,6 +2,9 @@
 
 このページはPython,SQL,R,SASなどのプログラミングの技術メモです。
 
+以下のURLでサイトにアクセスをすることができます。
+https://isaacnakamura.github.io/programming_memo/
+
 ## 参照URL
 Getting Started with GitHub Pages
 https://guides.github.com/features/pages/
