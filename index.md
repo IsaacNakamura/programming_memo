@@ -34,11 +34,11 @@ https://stackoverflow.com/questions/21255438/permission-denied-publickey-fatal-c
 
 上記サイトにより解決
 ```markdown
-git clone https://github.com/%REPOSITORYFOLDER%/%REPOSITORYNAME%.git
+git clone git@github.com:%REPOSITORYFOLDER%/%REPOSITORYNAME%.git
 ```
 上記は間違い。
 ```markdown
-git clone git@github.com:%REPOSITORYFOLDER%/%REPOSITORYNAME%.git
+git clone https://github.com/%REPOSITORYFOLDER%/%REPOSITORYNAME%.git
 ```
 こちらが正解。
 
