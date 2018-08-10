@@ -20,6 +20,18 @@ https://qiita.com/masamitsu-konya/items/abb572337156e4d003cf　　
 
 今回はこの記事を参照してリポジトリーを作成後、ローカルにクローンする。
 
+## サイトテンプレート
+
+テンプレートは以下のサイト
+http://www.templatewire.com/verum-free-resume-cv-template
+
+で様々選ぶことができます。
+
+例えば
+http://www.templatewire.com/verum-free-resume-cv-template
+
+今回はJSやphpの練習もしたいので、まずは０から書こうと思います。
+
 ## 問題発生
 
 ```markdown
