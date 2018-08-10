@@ -32,7 +32,12 @@ http://www.templatewire.com/verum-free-resume-cv-template
 
 今回はJSやphpの練習もしたいので、まずは０から書こうと思います。
 
-## 問題発生
+## プログラミングメモ
+
+WordPressの投稿記事内でJavascript プログラムを実行する方法
+https://www.webantena.net/wordpress/run-the-javascript-in-the-article/
+
+## トラブルシューティング
 
 ```markdown
 Permission denied (publickey).
