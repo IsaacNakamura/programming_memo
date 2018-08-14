@@ -40,6 +40,10 @@ https://www.webantena.net/wordpress/run-the-javascript-in-the-article/
 【CSS】おしゃれなボックスデザイン（囲み枠）のサンプル30
 https://saruwakakun.com/html-css/reference/box
 
+静的HTMLのためのテンプレートエンジン 第1回 共通部分が多いHTML
+https://app.codegrid.net/entry/template-for-coding-1
+--> JSを利用してやってみる。まずはとりあえず１ページづつ書く。 
+
 
 ## トラブルシューティング
 
