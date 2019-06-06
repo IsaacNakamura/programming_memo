@@ -5,6 +5,12 @@
 以下のURLでサイトにアクセスをすることができます。
 https://isaacnakamura.github.io/programming_memo/
 
+# 追記 2019/06/05
+
+プロジェクトサイトと、ユーザーサイトの作り方がそれぞれに少し変わった様子。以下参照。
+https://techacademy.jp/magazine/6445
+
+
 ## 参照URL
 Getting Started with GitHub Pages
 https://guides.github.com/features/pages/
